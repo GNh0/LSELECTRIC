@@ -1,4 +1,4 @@
-﻿namespace LSELEC
+﻿namespace LSELEC.Communication
 {
     public class LSElecHeaderMaker
     {
